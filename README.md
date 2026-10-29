@@ -10,7 +10,6 @@ RoboMaster 2027 自瞄与仿真工作区：根目录保存算法记录、环境�
 | [`bevy_robomaster_simulator/`](https://github.com/jeoor/bevy_robomaster_simulator) | Bevy/Avian 模拟器：Talos IPC、执行端发弹时序、敌方移动靶 AI |
 | `算法优化.md` | 算法优化与退化审计记录 |
 | `复刻.md` | 本机环境复刻与构建说明 |
-| `batch_*.json` | 模拟器批量射击试验结果 |
 | `sp-sim-linux-64.explicit.txt` | Conda 环境显式包列表 |
 | `RoboMaster 2027 ... .pdf` | 官方比赛规则、制作规范与参赛手册 |
 

@@ -1,0 +1,8 @@
+[submodule "sp_vision_25"]
+	path = sp_vision_25
+	url = https://github.com/jeoor/sp_vision_25.git
+	branch = main
+[submodule "bevy_robomaster_simulator"]
+	path = bevy_robomaster_simulator
+	url = https://github.com/jeoor/bevy_robomaster_simulator.git
+	branch = master
